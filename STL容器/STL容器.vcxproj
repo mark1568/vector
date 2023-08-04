@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="STL存放自定义数据类型.cpp" />
+    <ClCompile Include="STL容器嵌套容器.cpp" />
     <ClCompile Include="vector容器存放内置数据类型.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
